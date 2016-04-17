@@ -20,3 +20,9 @@
 /spring/*.pid
 
 .byebug_history
+
+# Ignore uploaded test images.
+/public/uploads
+
+# Vim files
+**/*.swp

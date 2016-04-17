@@ -7,6 +7,12 @@ gem 'rails', '4.2.4'
 gem 'bcrypt', '3.1.7'
 # Faker
 gem 'faker', '~> 1.4.2'
+# Carrierwave
+gem 'carrierwave', '~> 0.10.0'
+# Mini-magic
+gem 'mini_magick', '~> 3.8.0'
+# Fog
+gem 'fog', '~> 1.36.0'
 # Will Paginate
 gem 'will_paginate',           '~> 3.0.7'
 # Bootstrap Will Paginate
